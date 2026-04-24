@@ -9,4 +9,4 @@ This repository contains my hands-on projects while learning data engineering.
 - Performs validation, cleaning, transformation, and aggregation
 - Outputs cleaned dataset and city-wise counts
 
-📁 Location: `csv-data-pipeline/`
+📁 Location: `csv-data-pipeline/csv-data-pipeline`
