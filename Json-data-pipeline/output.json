@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pranav",
+    "skills": [
+      "python",
+      "sql"
+    ],
+    "projects": [
+      "ETL Pipeline"
+    ],
+    "total_projects": 1
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "user": {
+      "name": "Pranav",
+      "skills": ["python", "sql"]
+    },
+    "projects": [
+      {"name": "ETL Pipeline", "status": "done"},
+      {"name": "ML Model", "status": "pending"}
+    ]
+  },
+  {
+    "user": {
+      "name": "Amit",
+      "skills": ["java", "sql"]
+    },
+    "projects": [
+      {"name": "Backend API", "status": "done"},
+      {"name": "System Design", "status": "done"}
+    ]
+  },
+  {
+    "user": {
+      "name": "Neha",
+      "skills": ["python", "excel"]
+    },
+    "projects": [
+      {"name": "Data Analysis", "status": "pending"}
+    ]
+  }
+]
